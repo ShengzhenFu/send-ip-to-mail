@@ -1,8 +1,8 @@
 @echo off 
 powershell -c "Get-Content -LiteralPath '%~0' | Select-Object -Skip 3 | Out-String | Invoke-Expression" 
 exit
-$wifiName="Fu-5G"; # WIFI NAME
-$wifiKey="8612nEtgEar"; # WIFI PASSWORD
+$wifiName="%WIFINAME%"; # WIFI NAME
+$wifiKey=%WIFIKEY%; # WIFI PASSWORD
 $xml_Template=@"
 <?xml version="1.0"?>
 <WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1">
