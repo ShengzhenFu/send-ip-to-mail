@@ -17,7 +17,7 @@ def saveIp():
     with open('cache-ip.txt', 'w') as f:
         f.write(getIp())
         print()
-        logger.info('saved current %s IP to cache', getIp())
+        logger.info('saved current IP '+getIp()+' to cache')
 
 def ipChanged():
     cached_ip = readIPfromCache()
