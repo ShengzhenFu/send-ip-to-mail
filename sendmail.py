@@ -22,7 +22,7 @@ def send_email_ssl():
     current_time = datetime.datetime.now()
     sender = "shengzhen.fu@outlook.com"
     reciever = "fushengzhen@163.com"
-    password = "junglescout@2021"
+    password = OUTLOOK_PWD
     msg_body = 'Home IP is ' + getIp() + ', checking time: '+ str(current_time)
             
     # action
@@ -74,10 +74,10 @@ def send_email_starttls():
 
 
 if __name__ == '__main__':
-    
+    # send_email_starttls()
     sched = Scheduler()
     
-    sched.add_interval_job(send_email_starttls, hours=1, start_date='2021-06-10 23:30', args='')
+    sched.add_interval_job(send_email_starttls, hours=1, start_date='2021-06-29 07:30', args='')
     # # https://apscheduler.readthedocs.io/en/v2.1.2/cronschedule.html
     # #sched.add_cron_job(send_email_starttls, month='6-8,11-12', day_of_week='mon-fri', hour='9-19')
     sched.start()
