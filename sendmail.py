@@ -8,7 +8,7 @@ import time, datetime
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from apscheduler.scheduler import Scheduler
-from settings import OUTLOOK_USER, OUTLOOK_PWD, RECEIVERS, SENDER
+from settings import OUTLOOK_USER, OUTLOOK_PWD, RECEIVERS, SENDER, QQMAIL_PWD, QQMAIL_USER, QQSENDER
 
 from ipCompare import ipChanged, saveIp
 from common import Log
@@ -46,6 +46,7 @@ def send_email_starttls():
     if ipChanged() == True:
         print("detect IP change, will send email")
         logger.info("detect IP change, will send email")
+        # print(f'outlook user {OUTLOOK_USER}, outlook pwd {OUTLOOK_PWD}')
         s = smtplib.SMTP(host='smtp-mail.outlook.com', port=587)
         s.starttls()
         s.login(OUTLOOK_USER, OUTLOOK_PWD)
@@ -72,12 +73,48 @@ def send_email_starttls():
         print("ip not changed, will not send out email")
         logger.info("ip not changed, will not send out email")
 
+def send_email_ssl_qq():
+    # set up the SMTP server
+    if ipChanged() == True:
+        print("detect IP change, will send email")
+        logger.info("detect IP change, will send email")
+        # print(f'outlook user {OUTLOOK_USER}, outlook pwd {OUTLOOK_PWD}')
+        s = smtplib.SMTP_SSL("smtp.qq.com", 465)
+        # s.connect("smtp.qq.com",465)
+        # s.set_debuglevel(1)
+        # s.ehlo("smtp.qq.com")
+        s.login(QQMAIL_USER, QQMAIL_PWD)
+        print ('smtp server connection is good')
+        logger.info('smtp server connection is good')
+        time.sleep(2)
+        sender = QQSENDER
+        current_time = datetime.datetime.now()
+        receivers = [RECEIVERS]
+        text = "my home IP address is " + getIp() + ", checking time: " + str(current_time)
+        msg = MIMEMultipart('alternative')
+        content = MIMEText(text, 'plain')
+        msg['Subject']='Home IP check'
+        msg['From']=QQSENDER
+        msg['To']=RECEIVERS
+        msg.attach(content)
+        s.sendmail(sender, receivers, msg.as_string())
+        print ('sent email via qqmail at: '+time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
+        logger.info('sent email to '+ str(receivers)+ '  at: ' + str(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))) )
+        s.quit()
+        saveIp()
+    elif ipChanged() == False:
+        print("ip not changed, will not send out email")
+        logger.info("ip not changed, will not send out email")
+
 
 if __name__ == '__main__':
+    
     # send_email_starttls()
+    # send_email_ssl_qq()
+    
     sched = Scheduler()
     
-    sched.add_interval_job(send_email_starttls, hours=1, start_date='2021-06-29 07:30', args='')
+    sched.add_interval_job(send_email_ssl_qq, hours=1, start_date='2021-06-29 07:30', args='')
     # # https://apscheduler.readthedocs.io/en/v2.1.2/cronschedule.html
     # #sched.add_cron_job(send_email_starttls, month='6-8,11-12', day_of_week='mon-fri', hour='9-19')
     sched.start()
@@ -88,4 +125,4 @@ if __name__ == '__main__':
     except (KeyboardInterrupt, SystemExit):
         print('exit')
         sched.shutdown() 
-
+    

@@ -16,3 +16,11 @@ OUTLOOK_USER = os.getenv("OUTLOOK_USER")
 OUTLOOK_PWD = os.getenv("OUTLOOK_PWD")
 RECEIVERS = os.getenv("RECEIVERS")
 SENDER = os.getenv("SENDER")
+QQSENDER = os.getenv("QQSENDER")
+QQMAIL_USER = os.getenv("QQMAIL_USER")
+QQMAIL_PWD = os.getenv("QQMAIL_PWD")
+
+accessKeyId = os.getenv("ACCESSKEYID")
+accessSecret = os.getenv('ACCESSSECRET')
+
+domainName = os.getenv('DOMAIN')
