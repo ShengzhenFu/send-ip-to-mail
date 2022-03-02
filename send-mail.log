@@ -844,3 +844,1376 @@
 2021-07-01 17:00:00,505 - common - INFO - ip not changed, will not send out email
 2021-07-01 17:00:00,505 - common - INFO - ip not changed, will not send out email
 2021-07-01 17:00:00,505 - common - INFO - ip not changed, will not send out email
+2022-02-26 08:38:36,556 - common - INFO - read cache: 14.153.55.13
+2022-02-26 08:38:36,556 - common - INFO - read cache: 14.153.55.13
+2022-02-26 08:38:36,556 - common - INFO - read cache: 14.153.55.13
+2022-02-26 08:38:37,009 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 08:38:37,009 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 08:38:37,009 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 08:38:37,009 - common - INFO - detect IP change, will send email
+2022-02-26 08:38:37,009 - common - INFO - detect IP change, will send email
+2022-02-26 08:38:37,009 - common - INFO - detect IP change, will send email
+2022-02-26 08:47:21,500 - common - INFO - read cache: 14.153.55.13
+2022-02-26 08:47:21,500 - common - INFO - read cache: 14.153.55.13
+2022-02-26 08:47:21,500 - common - INFO - read cache: 14.153.55.13
+2022-02-26 08:47:24,806 - common - INFO - current IP is 85.203.23.146 detect IP change
+2022-02-26 08:47:24,806 - common - INFO - current IP is 85.203.23.146 detect IP change
+2022-02-26 08:47:24,806 - common - INFO - current IP is 85.203.23.146 detect IP change
+2022-02-26 08:47:24,806 - common - INFO - detect IP change, will send email
+2022-02-26 08:47:24,806 - common - INFO - detect IP change, will send email
+2022-02-26 08:47:24,806 - common - INFO - detect IP change, will send email
+2022-02-26 08:47:37,148 - common - INFO - smtp server connection is good
+2022-02-26 08:47:37,148 - common - INFO - smtp server connection is good
+2022-02-26 08:47:37,148 - common - INFO - smtp server connection is good
+2022-02-26 08:47:43,315 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-02-26 08:47:43
+2022-02-26 08:47:43,315 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-02-26 08:47:43
+2022-02-26 08:47:43,315 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-02-26 08:47:43
+2022-02-26 08:47:46,788 - common - INFO - saved current IP 85.203.23.146 to cache
+2022-02-26 08:47:46,788 - common - INFO - saved current IP 85.203.23.146 to cache
+2022-02-26 08:47:46,788 - common - INFO - saved current IP 85.203.23.146 to cache
+2022-02-26 08:48:23,753 - common - INFO - read cache: 85.203.23.146
+2022-02-26 08:48:23,753 - common - INFO - read cache: 85.203.23.146
+2022-02-26 08:48:23,753 - common - INFO - read cache: 85.203.23.146
+2022-02-26 08:48:24,093 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 08:48:24,093 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 08:48:24,093 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 08:48:24,093 - common - INFO - detect IP change, will send email
+2022-02-26 08:48:24,093 - common - INFO - detect IP change, will send email
+2022-02-26 08:48:24,093 - common - INFO - detect IP change, will send email
+2022-02-26 09:22:40,724 - common - INFO - read cache: 85.203.23.146
+2022-02-26 09:22:40,724 - common - INFO - read cache: 85.203.23.146
+2022-02-26 09:22:40,724 - common - INFO - read cache: 85.203.23.146
+2022-02-26 09:22:41,082 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:22:41,082 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:22:41,082 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:22:41,083 - common - INFO - detect IP change, will send email
+2022-02-26 09:22:41,083 - common - INFO - detect IP change, will send email
+2022-02-26 09:22:41,083 - common - INFO - detect IP change, will send email
+2022-02-26 09:22:48,845 - common - INFO - smtp server connection is good
+2022-02-26 09:22:48,845 - common - INFO - smtp server connection is good
+2022-02-26 09:22:48,845 - common - INFO - smtp server connection is good
+2022-02-26 09:22:53,164 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-02-26 09:22:53
+2022-02-26 09:22:53,164 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-02-26 09:22:53
+2022-02-26 09:22:53,164 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-02-26 09:22:53
+2022-02-26 09:22:53,879 - common - INFO - saved current IP 14.153.54.68 to cache
+2022-02-26 09:22:53,879 - common - INFO - saved current IP 14.153.54.68 to cache
+2022-02-26 09:22:53,879 - common - INFO - saved current IP 14.153.54.68 to cache
+2022-02-26 09:25:32,560 - common - INFO - read cache: 14.153.54.68
+2022-02-26 09:25:32,560 - common - INFO - read cache: 14.153.54.68
+2022-02-26 09:25:32,560 - common - INFO - read cache: 14.153.54.68
+2022-02-26 09:25:32,866 - common - INFO - ip not changed
+2022-02-26 09:25:32,866 - common - INFO - ip not changed
+2022-02-26 09:25:32,866 - common - INFO - ip not changed
+2022-02-26 09:25:32,867 - common - INFO - read cache: 14.153.54.68
+2022-02-26 09:25:32,867 - common - INFO - read cache: 14.153.54.68
+2022-02-26 09:25:32,867 - common - INFO - read cache: 14.153.54.68
+2022-02-26 09:25:33,158 - common - INFO - ip not changed
+2022-02-26 09:25:33,158 - common - INFO - ip not changed
+2022-02-26 09:25:33,158 - common - INFO - ip not changed
+2022-02-26 09:25:33,159 - common - INFO - ip not changed, will not send out email
+2022-02-26 09:25:33,159 - common - INFO - ip not changed, will not send out email
+2022-02-26 09:25:33,159 - common - INFO - ip not changed, will not send out email
+2022-02-26 09:25:44,503 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:25:44,503 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:25:44,503 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:25:44,783 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:25:44,783 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:25:44,783 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:25:44,783 - common - INFO - detect IP change, will send email
+2022-02-26 09:25:44,783 - common - INFO - detect IP change, will send email
+2022-02-26 09:25:44,783 - common - INFO - detect IP change, will send email
+2022-02-26 09:29:50,939 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:29:50,939 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:29:50,939 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:29:51,188 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:29:51,188 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:29:51,188 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:29:51,189 - common - INFO - detect IP change, will send email
+2022-02-26 09:29:51,189 - common - INFO - detect IP change, will send email
+2022-02-26 09:29:51,189 - common - INFO - detect IP change, will send email
+2022-02-26 09:32:40,579 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:32:40,579 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:32:40,579 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:32:40,919 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:32:40,919 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:32:40,919 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:32:40,919 - common - INFO - detect IP change, will send email
+2022-02-26 09:32:40,919 - common - INFO - detect IP change, will send email
+2022-02-26 09:32:40,919 - common - INFO - detect IP change, will send email
+2022-02-26 09:33:05,081 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:33:05,081 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:33:05,081 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:33:06,416 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:33:06,416 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:33:06,416 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:33:06,417 - common - INFO - detect IP change, will send email
+2022-02-26 09:33:06,417 - common - INFO - detect IP change, will send email
+2022-02-26 09:33:06,417 - common - INFO - detect IP change, will send email
+2022-02-26 09:35:01,604 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:35:01,604 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:35:01,604 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:35:01,894 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:35:01,894 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:35:01,894 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:35:01,894 - common - INFO - detect IP change, will send email
+2022-02-26 09:35:01,894 - common - INFO - detect IP change, will send email
+2022-02-26 09:35:01,894 - common - INFO - detect IP change, will send email
+2022-02-26 09:35:40,331 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:35:40,331 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:35:40,331 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:35:40,768 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:35:40,768 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:35:40,768 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:35:40,769 - common - INFO - detect IP change, will send email
+2022-02-26 09:35:40,769 - common - INFO - detect IP change, will send email
+2022-02-26 09:35:40,769 - common - INFO - detect IP change, will send email
+2022-02-26 09:37:34,052 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:37:34,052 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:37:34,052 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:37:34,342 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:37:34,342 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:37:34,342 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:37:34,342 - common - INFO - detect IP change, will send email
+2022-02-26 09:37:34,342 - common - INFO - detect IP change, will send email
+2022-02-26 09:37:34,342 - common - INFO - detect IP change, will send email
+2022-02-26 09:37:34,825 - common - INFO - smtp server connection is good
+2022-02-26 09:37:34,825 - common - INFO - smtp server connection is good
+2022-02-26 09:37:34,825 - common - INFO - smtp server connection is good
+2022-02-26 09:39:59,309 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:39:59,309 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:39:59,309 - common - INFO - read cache: 14.153.54.33
+2022-02-26 09:39:59,664 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:39:59,664 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:39:59,664 - common - INFO - current IP is 14.153.54.68 detect IP change
+2022-02-26 09:39:59,665 - common - INFO - detect IP change, will send email
+2022-02-26 09:39:59,665 - common - INFO - detect IP change, will send email
+2022-02-26 09:39:59,665 - common - INFO - detect IP change, will send email
+2022-02-26 09:40:00,167 - common - INFO - smtp server connection is good
+2022-02-26 09:40:00,167 - common - INFO - smtp server connection is good
+2022-02-26 09:40:00,167 - common - INFO - smtp server connection is good
+2022-02-26 09:40:03,839 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-02-26 09:40:03
+2022-02-26 09:40:03,839 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-02-26 09:40:03
+2022-02-26 09:40:03,839 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-02-26 09:40:03
+2022-02-26 09:40:06,738 - common - INFO - saved current IP 14.153.54.68 to cache
+2022-02-26 09:40:06,738 - common - INFO - saved current IP 14.153.54.68 to cache
+2022-02-26 09:40:06,738 - common - INFO - saved current IP 14.153.54.68 to cache
+2022-02-28 09:00:00,264 - common - INFO - read cache: 14.153.54.68
+2022-02-28 09:00:00,264 - common - INFO - read cache: 14.153.54.68
+2022-02-28 09:00:00,264 - common - INFO - read cache: 14.153.54.68
+2022-02-28 09:00:00,562 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 09:00:00,562 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 09:00:00,562 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 09:00:00,562 - common - INFO - detect IP change, will send email
+2022-02-28 09:00:00,562 - common - INFO - detect IP change, will send email
+2022-02-28 09:00:00,562 - common - INFO - detect IP change, will send email
+2022-02-28 10:00:00,010 - common - INFO - read cache: 14.153.54.68
+2022-02-28 10:00:00,010 - common - INFO - read cache: 14.153.54.68
+2022-02-28 10:00:00,010 - common - INFO - read cache: 14.153.54.68
+2022-02-28 10:00:01,386 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 10:00:01,386 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 10:00:01,386 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 10:00:01,386 - common - INFO - detect IP change, will send email
+2022-02-28 10:00:01,386 - common - INFO - detect IP change, will send email
+2022-02-28 10:00:01,386 - common - INFO - detect IP change, will send email
+2022-02-28 11:00:00,010 - common - INFO - read cache: 14.153.54.68
+2022-02-28 11:00:00,010 - common - INFO - read cache: 14.153.54.68
+2022-02-28 11:00:00,010 - common - INFO - read cache: 14.153.54.68
+2022-02-28 11:00:01,060 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 11:00:01,060 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 11:00:01,060 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 11:00:01,060 - common - INFO - detect IP change, will send email
+2022-02-28 11:00:01,060 - common - INFO - detect IP change, will send email
+2022-02-28 11:00:01,060 - common - INFO - detect IP change, will send email
+2022-02-28 12:00:00,011 - common - INFO - read cache: 14.153.54.68
+2022-02-28 12:00:00,011 - common - INFO - read cache: 14.153.54.68
+2022-02-28 12:00:00,011 - common - INFO - read cache: 14.153.54.68
+2022-02-28 12:00:00,910 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 12:00:00,910 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 12:00:00,910 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 12:00:00,911 - common - INFO - detect IP change, will send email
+2022-02-28 12:00:00,911 - common - INFO - detect IP change, will send email
+2022-02-28 12:00:00,911 - common - INFO - detect IP change, will send email
+2022-02-28 13:00:00,005 - common - INFO - read cache: 14.153.54.68
+2022-02-28 13:00:00,005 - common - INFO - read cache: 14.153.54.68
+2022-02-28 13:00:00,005 - common - INFO - read cache: 14.153.54.68
+2022-02-28 13:00:00,299 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 13:00:00,299 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 13:00:00,299 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 13:00:00,299 - common - INFO - detect IP change, will send email
+2022-02-28 13:00:00,299 - common - INFO - detect IP change, will send email
+2022-02-28 13:00:00,299 - common - INFO - detect IP change, will send email
+2022-02-28 14:00:00,010 - common - INFO - read cache: 14.153.54.68
+2022-02-28 14:00:00,010 - common - INFO - read cache: 14.153.54.68
+2022-02-28 14:00:00,010 - common - INFO - read cache: 14.153.54.68
+2022-02-28 14:00:01,134 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 14:00:01,134 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 14:00:01,134 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 14:00:01,135 - common - INFO - detect IP change, will send email
+2022-02-28 14:00:01,135 - common - INFO - detect IP change, will send email
+2022-02-28 14:00:01,135 - common - INFO - detect IP change, will send email
+2022-02-28 15:00:00,003 - common - INFO - read cache: 14.153.54.68
+2022-02-28 15:00:00,003 - common - INFO - read cache: 14.153.54.68
+2022-02-28 15:00:00,003 - common - INFO - read cache: 14.153.54.68
+2022-02-28 15:00:00,337 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 15:00:00,337 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 15:00:00,337 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 15:00:00,337 - common - INFO - detect IP change, will send email
+2022-02-28 15:00:00,337 - common - INFO - detect IP change, will send email
+2022-02-28 15:00:00,337 - common - INFO - detect IP change, will send email
+2022-02-28 16:00:00,011 - common - INFO - read cache: 14.153.54.68
+2022-02-28 16:00:00,011 - common - INFO - read cache: 14.153.54.68
+2022-02-28 16:00:00,011 - common - INFO - read cache: 14.153.54.68
+2022-02-28 16:00:00,200 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 16:00:00,200 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 16:00:00,200 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 16:00:00,201 - common - INFO - detect IP change, will send email
+2022-02-28 16:00:00,201 - common - INFO - detect IP change, will send email
+2022-02-28 16:00:00,201 - common - INFO - detect IP change, will send email
+2022-02-28 17:00:00,011 - common - INFO - read cache: 14.153.54.68
+2022-02-28 17:00:00,011 - common - INFO - read cache: 14.153.54.68
+2022-02-28 17:00:00,011 - common - INFO - read cache: 14.153.54.68
+2022-02-28 17:00:00,702 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 17:00:00,702 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 17:00:00,702 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 17:00:00,702 - common - INFO - detect IP change, will send email
+2022-02-28 17:00:00,702 - common - INFO - detect IP change, will send email
+2022-02-28 17:00:00,702 - common - INFO - detect IP change, will send email
+2022-02-28 20:00:00,040 - common - INFO - read cache: 14.153.54.68
+2022-02-28 20:00:00,040 - common - INFO - read cache: 14.153.54.68
+2022-02-28 20:00:00,040 - common - INFO - read cache: 14.153.54.68
+2022-02-28 20:00:01,398 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 20:00:01,398 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 20:00:01,398 - common - INFO - current IP is 14.153.53.186 detect IP change
+2022-02-28 20:00:01,398 - common - INFO - detect IP change, will send email
+2022-02-28 20:00:01,398 - common - INFO - detect IP change, will send email
+2022-02-28 20:00:01,398 - common - INFO - detect IP change, will send email
+2022-02-28 20:00:01,826 - common - INFO - smtp server connection is good
+2022-02-28 20:00:01,826 - common - INFO - smtp server connection is good
+2022-02-28 20:00:01,826 - common - INFO - smtp server connection is good
+2022-02-28 20:00:05,859 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-02-28 20:00:05
+2022-02-28 20:00:05,859 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-02-28 20:00:05
+2022-02-28 20:00:05,859 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-02-28 20:00:05
+2022-02-28 20:00:14,071 - common - INFO - saved current IP 14.153.53.186 to cache
+2022-02-28 20:00:14,071 - common - INFO - saved current IP 14.153.53.186 to cache
+2022-02-28 20:00:14,071 - common - INFO - saved current IP 14.153.53.186 to cache
+2022-02-28 21:00:00,007 - common - INFO - read cache: 14.153.53.186
+2022-02-28 21:00:00,007 - common - INFO - read cache: 14.153.53.186
+2022-02-28 21:00:00,007 - common - INFO - read cache: 14.153.53.186
+2022-02-28 21:00:00,338 - common - INFO - ip not changed
+2022-02-28 21:00:00,338 - common - INFO - ip not changed
+2022-02-28 21:00:00,338 - common - INFO - ip not changed
+2022-02-28 21:00:00,339 - common - INFO - read cache: 14.153.53.186
+2022-02-28 21:00:00,339 - common - INFO - read cache: 14.153.53.186
+2022-02-28 21:00:00,339 - common - INFO - read cache: 14.153.53.186
+2022-02-28 21:00:00,672 - common - INFO - ip not changed
+2022-02-28 21:00:00,672 - common - INFO - ip not changed
+2022-02-28 21:00:00,672 - common - INFO - ip not changed
+2022-02-28 21:00:00,673 - common - INFO - ip not changed, will not send out email
+2022-02-28 21:00:00,673 - common - INFO - ip not changed, will not send out email
+2022-02-28 21:00:00,673 - common - INFO - ip not changed, will not send out email
+2022-02-28 23:00:00,007 - common - INFO - read cache: 14.153.53.186
+2022-02-28 23:00:00,007 - common - INFO - read cache: 14.153.53.186
+2022-02-28 23:00:00,007 - common - INFO - read cache: 14.153.53.186
+2022-02-28 23:00:00,258 - common - INFO - ip not changed
+2022-02-28 23:00:00,258 - common - INFO - ip not changed
+2022-02-28 23:00:00,258 - common - INFO - ip not changed
+2022-02-28 23:00:00,259 - common - INFO - read cache: 14.153.53.186
+2022-02-28 23:00:00,259 - common - INFO - read cache: 14.153.53.186
+2022-02-28 23:00:00,259 - common - INFO - read cache: 14.153.53.186
+2022-02-28 23:00:00,448 - common - INFO - ip not changed
+2022-02-28 23:00:00,448 - common - INFO - ip not changed
+2022-02-28 23:00:00,448 - common - INFO - ip not changed
+2022-02-28 23:00:00,449 - common - INFO - ip not changed, will not send out email
+2022-02-28 23:00:00,449 - common - INFO - ip not changed, will not send out email
+2022-02-28 23:00:00,449 - common - INFO - ip not changed, will not send out email
+2022-03-01 00:00:00,025 - common - INFO - read cache: 14.153.53.186
+2022-03-01 00:00:00,025 - common - INFO - read cache: 14.153.53.186
+2022-03-01 00:00:00,025 - common - INFO - read cache: 14.153.53.186
+2022-03-01 00:00:00,288 - common - INFO - ip not changed
+2022-03-01 00:00:00,288 - common - INFO - ip not changed
+2022-03-01 00:00:00,288 - common - INFO - ip not changed
+2022-03-01 00:00:00,289 - common - INFO - read cache: 14.153.53.186
+2022-03-01 00:00:00,289 - common - INFO - read cache: 14.153.53.186
+2022-03-01 00:00:00,289 - common - INFO - read cache: 14.153.53.186
+2022-03-01 00:00:00,550 - common - INFO - ip not changed
+2022-03-01 00:00:00,550 - common - INFO - ip not changed
+2022-03-01 00:00:00,550 - common - INFO - ip not changed
+2022-03-01 00:00:00,550 - common - INFO - ip not changed, will not send out email
+2022-03-01 00:00:00,550 - common - INFO - ip not changed, will not send out email
+2022-03-01 00:00:00,550 - common - INFO - ip not changed, will not send out email
+2022-03-01 01:00:00,009 - common - INFO - read cache: 14.153.53.186
+2022-03-01 01:00:00,009 - common - INFO - read cache: 14.153.53.186
+2022-03-01 01:00:00,009 - common - INFO - read cache: 14.153.53.186
+2022-03-01 01:00:00,331 - common - INFO - ip not changed
+2022-03-01 01:00:00,331 - common - INFO - ip not changed
+2022-03-01 01:00:00,331 - common - INFO - ip not changed
+2022-03-01 01:00:00,332 - common - INFO - read cache: 14.153.53.186
+2022-03-01 01:00:00,332 - common - INFO - read cache: 14.153.53.186
+2022-03-01 01:00:00,332 - common - INFO - read cache: 14.153.53.186
+2022-03-01 01:00:00,691 - common - INFO - ip not changed
+2022-03-01 01:00:00,691 - common - INFO - ip not changed
+2022-03-01 01:00:00,691 - common - INFO - ip not changed
+2022-03-01 01:00:00,691 - common - INFO - ip not changed, will not send out email
+2022-03-01 01:00:00,691 - common - INFO - ip not changed, will not send out email
+2022-03-01 01:00:00,691 - common - INFO - ip not changed, will not send out email
+2022-03-01 02:00:00,007 - common - INFO - read cache: 14.153.53.186
+2022-03-01 02:00:00,007 - common - INFO - read cache: 14.153.53.186
+2022-03-01 02:00:00,007 - common - INFO - read cache: 14.153.53.186
+2022-03-01 02:00:00,351 - common - INFO - ip not changed
+2022-03-01 02:00:00,351 - common - INFO - ip not changed
+2022-03-01 02:00:00,351 - common - INFO - ip not changed
+2022-03-01 02:00:00,351 - common - INFO - read cache: 14.153.53.186
+2022-03-01 02:00:00,351 - common - INFO - read cache: 14.153.53.186
+2022-03-01 02:00:00,351 - common - INFO - read cache: 14.153.53.186
+2022-03-01 02:00:00,662 - common - INFO - ip not changed
+2022-03-01 02:00:00,662 - common - INFO - ip not changed
+2022-03-01 02:00:00,662 - common - INFO - ip not changed
+2022-03-01 02:00:00,662 - common - INFO - ip not changed, will not send out email
+2022-03-01 02:00:00,662 - common - INFO - ip not changed, will not send out email
+2022-03-01 02:00:00,662 - common - INFO - ip not changed, will not send out email
+2022-03-01 03:00:00,007 - common - INFO - read cache: 14.153.53.186
+2022-03-01 03:00:00,007 - common - INFO - read cache: 14.153.53.186
+2022-03-01 03:00:00,007 - common - INFO - read cache: 14.153.53.186
+2022-03-01 03:00:00,444 - common - INFO - ip not changed
+2022-03-01 03:00:00,444 - common - INFO - ip not changed
+2022-03-01 03:00:00,444 - common - INFO - ip not changed
+2022-03-01 03:00:00,444 - common - INFO - read cache: 14.153.53.186
+2022-03-01 03:00:00,444 - common - INFO - read cache: 14.153.53.186
+2022-03-01 03:00:00,444 - common - INFO - read cache: 14.153.53.186
+2022-03-01 03:00:00,869 - common - INFO - ip not changed
+2022-03-01 03:00:00,869 - common - INFO - ip not changed
+2022-03-01 03:00:00,869 - common - INFO - ip not changed
+2022-03-01 03:00:00,869 - common - INFO - ip not changed, will not send out email
+2022-03-01 03:00:00,869 - common - INFO - ip not changed, will not send out email
+2022-03-01 03:00:00,869 - common - INFO - ip not changed, will not send out email
+2022-03-01 04:00:00,001 - common - INFO - read cache: 14.153.53.186
+2022-03-01 04:00:00,001 - common - INFO - read cache: 14.153.53.186
+2022-03-01 04:00:00,001 - common - INFO - read cache: 14.153.53.186
+2022-03-01 04:00:00,321 - common - INFO - ip not changed
+2022-03-01 04:00:00,321 - common - INFO - ip not changed
+2022-03-01 04:00:00,321 - common - INFO - ip not changed
+2022-03-01 04:00:00,322 - common - INFO - read cache: 14.153.53.186
+2022-03-01 04:00:00,322 - common - INFO - read cache: 14.153.53.186
+2022-03-01 04:00:00,322 - common - INFO - read cache: 14.153.53.186
+2022-03-01 04:00:00,540 - common - INFO - ip not changed
+2022-03-01 04:00:00,540 - common - INFO - ip not changed
+2022-03-01 04:00:00,540 - common - INFO - ip not changed
+2022-03-01 04:00:00,540 - common - INFO - ip not changed, will not send out email
+2022-03-01 04:00:00,540 - common - INFO - ip not changed, will not send out email
+2022-03-01 04:00:00,540 - common - INFO - ip not changed, will not send out email
+2022-03-01 05:00:00,010 - common - INFO - read cache: 14.153.53.186
+2022-03-01 05:00:00,010 - common - INFO - read cache: 14.153.53.186
+2022-03-01 05:00:00,010 - common - INFO - read cache: 14.153.53.186
+2022-03-01 05:00:00,269 - common - INFO - ip not changed
+2022-03-01 05:00:00,269 - common - INFO - ip not changed
+2022-03-01 05:00:00,269 - common - INFO - ip not changed
+2022-03-01 05:00:00,269 - common - INFO - read cache: 14.153.53.186
+2022-03-01 05:00:00,269 - common - INFO - read cache: 14.153.53.186
+2022-03-01 05:00:00,269 - common - INFO - read cache: 14.153.53.186
+2022-03-01 05:00:00,452 - common - INFO - ip not changed
+2022-03-01 05:00:00,452 - common - INFO - ip not changed
+2022-03-01 05:00:00,452 - common - INFO - ip not changed
+2022-03-01 05:00:00,453 - common - INFO - ip not changed, will not send out email
+2022-03-01 05:00:00,453 - common - INFO - ip not changed, will not send out email
+2022-03-01 05:00:00,453 - common - INFO - ip not changed, will not send out email
+2022-03-01 06:00:00,005 - common - INFO - read cache: 14.153.53.186
+2022-03-01 06:00:00,005 - common - INFO - read cache: 14.153.53.186
+2022-03-01 06:00:00,005 - common - INFO - read cache: 14.153.53.186
+2022-03-01 06:00:00,271 - common - INFO - ip not changed
+2022-03-01 06:00:00,271 - common - INFO - ip not changed
+2022-03-01 06:00:00,271 - common - INFO - ip not changed
+2022-03-01 06:00:00,271 - common - INFO - read cache: 14.153.53.186
+2022-03-01 06:00:00,271 - common - INFO - read cache: 14.153.53.186
+2022-03-01 06:00:00,271 - common - INFO - read cache: 14.153.53.186
+2022-03-01 06:00:00,654 - common - INFO - ip not changed
+2022-03-01 06:00:00,654 - common - INFO - ip not changed
+2022-03-01 06:00:00,654 - common - INFO - ip not changed
+2022-03-01 06:00:00,654 - common - INFO - ip not changed, will not send out email
+2022-03-01 06:00:00,654 - common - INFO - ip not changed, will not send out email
+2022-03-01 06:00:00,654 - common - INFO - ip not changed, will not send out email
+2022-03-01 07:00:00,012 - common - INFO - read cache: 14.153.53.186
+2022-03-01 07:00:00,012 - common - INFO - read cache: 14.153.53.186
+2022-03-01 07:00:00,012 - common - INFO - read cache: 14.153.53.186
+2022-03-01 07:00:01,439 - common - INFO - ip not changed
+2022-03-01 07:00:01,439 - common - INFO - ip not changed
+2022-03-01 07:00:01,439 - common - INFO - ip not changed
+2022-03-01 07:00:01,439 - common - INFO - read cache: 14.153.53.186
+2022-03-01 07:00:01,439 - common - INFO - read cache: 14.153.53.186
+2022-03-01 07:00:01,439 - common - INFO - read cache: 14.153.53.186
+2022-03-01 07:00:01,994 - common - INFO - ip not changed
+2022-03-01 07:00:01,994 - common - INFO - ip not changed
+2022-03-01 07:00:01,994 - common - INFO - ip not changed
+2022-03-01 07:00:01,994 - common - INFO - ip not changed, will not send out email
+2022-03-01 07:00:01,994 - common - INFO - ip not changed, will not send out email
+2022-03-01 07:00:01,994 - common - INFO - ip not changed, will not send out email
+2022-03-01 08:00:00,001 - common - INFO - read cache: 14.153.53.186
+2022-03-01 08:00:00,001 - common - INFO - read cache: 14.153.53.186
+2022-03-01 08:00:00,001 - common - INFO - read cache: 14.153.53.186
+2022-03-01 08:00:00,197 - common - INFO - ip not changed
+2022-03-01 08:00:00,197 - common - INFO - ip not changed
+2022-03-01 08:00:00,197 - common - INFO - ip not changed
+2022-03-01 08:00:00,198 - common - INFO - read cache: 14.153.53.186
+2022-03-01 08:00:00,198 - common - INFO - read cache: 14.153.53.186
+2022-03-01 08:00:00,198 - common - INFO - read cache: 14.153.53.186
+2022-03-01 08:00:00,438 - common - INFO - ip not changed
+2022-03-01 08:00:00,438 - common - INFO - ip not changed
+2022-03-01 08:00:00,438 - common - INFO - ip not changed
+2022-03-01 08:00:00,438 - common - INFO - ip not changed, will not send out email
+2022-03-01 08:00:00,438 - common - INFO - ip not changed, will not send out email
+2022-03-01 08:00:00,438 - common - INFO - ip not changed, will not send out email
+2022-03-01 09:00:00,013 - common - INFO - read cache: 14.153.53.186
+2022-03-01 09:00:00,013 - common - INFO - read cache: 14.153.53.186
+2022-03-01 09:00:00,013 - common - INFO - read cache: 14.153.53.186
+2022-03-01 09:00:00,523 - common - INFO - ip not changed
+2022-03-01 09:00:00,523 - common - INFO - ip not changed
+2022-03-01 09:00:00,523 - common - INFO - ip not changed
+2022-03-01 09:00:00,523 - common - INFO - read cache: 14.153.53.186
+2022-03-01 09:00:00,523 - common - INFO - read cache: 14.153.53.186
+2022-03-01 09:00:00,523 - common - INFO - read cache: 14.153.53.186
+2022-03-01 09:00:00,852 - common - INFO - ip not changed
+2022-03-01 09:00:00,852 - common - INFO - ip not changed
+2022-03-01 09:00:00,852 - common - INFO - ip not changed
+2022-03-01 09:00:00,853 - common - INFO - ip not changed, will not send out email
+2022-03-01 09:00:00,853 - common - INFO - ip not changed, will not send out email
+2022-03-01 09:00:00,853 - common - INFO - ip not changed, will not send out email
+2022-03-01 10:00:00,001 - common - INFO - read cache: 14.153.53.186
+2022-03-01 10:00:00,001 - common - INFO - read cache: 14.153.53.186
+2022-03-01 10:00:00,001 - common - INFO - read cache: 14.153.53.186
+2022-03-01 10:00:00,354 - common - INFO - ip not changed
+2022-03-01 10:00:00,354 - common - INFO - ip not changed
+2022-03-01 10:00:00,354 - common - INFO - ip not changed
+2022-03-01 10:00:00,355 - common - INFO - read cache: 14.153.53.186
+2022-03-01 10:00:00,355 - common - INFO - read cache: 14.153.53.186
+2022-03-01 10:00:00,355 - common - INFO - read cache: 14.153.53.186
+2022-03-01 10:00:00,639 - common - INFO - ip not changed
+2022-03-01 10:00:00,639 - common - INFO - ip not changed
+2022-03-01 10:00:00,639 - common - INFO - ip not changed
+2022-03-01 10:00:00,640 - common - INFO - ip not changed, will not send out email
+2022-03-01 10:00:00,640 - common - INFO - ip not changed, will not send out email
+2022-03-01 10:00:00,640 - common - INFO - ip not changed, will not send out email
+2022-03-01 11:00:00,005 - common - INFO - read cache: 14.153.53.186
+2022-03-01 11:00:00,005 - common - INFO - read cache: 14.153.53.186
+2022-03-01 11:00:00,005 - common - INFO - read cache: 14.153.53.186
+2022-03-01 11:00:00,184 - common - INFO - ip not changed
+2022-03-01 11:00:00,184 - common - INFO - ip not changed
+2022-03-01 11:00:00,184 - common - INFO - ip not changed
+2022-03-01 11:00:00,185 - common - INFO - read cache: 14.153.53.186
+2022-03-01 11:00:00,185 - common - INFO - read cache: 14.153.53.186
+2022-03-01 11:00:00,185 - common - INFO - read cache: 14.153.53.186
+2022-03-01 11:00:00,415 - common - INFO - ip not changed
+2022-03-01 11:00:00,415 - common - INFO - ip not changed
+2022-03-01 11:00:00,415 - common - INFO - ip not changed
+2022-03-01 11:00:00,416 - common - INFO - ip not changed, will not send out email
+2022-03-01 11:00:00,416 - common - INFO - ip not changed, will not send out email
+2022-03-01 11:00:00,416 - common - INFO - ip not changed, will not send out email
+2022-03-01 12:00:00,006 - common - INFO - read cache: 14.153.53.186
+2022-03-01 12:00:00,006 - common - INFO - read cache: 14.153.53.186
+2022-03-01 12:00:00,006 - common - INFO - read cache: 14.153.53.186
+2022-03-01 12:00:00,396 - common - INFO - ip not changed
+2022-03-01 12:00:00,396 - common - INFO - ip not changed
+2022-03-01 12:00:00,396 - common - INFO - ip not changed
+2022-03-01 12:00:00,397 - common - INFO - read cache: 14.153.53.186
+2022-03-01 12:00:00,397 - common - INFO - read cache: 14.153.53.186
+2022-03-01 12:00:00,397 - common - INFO - read cache: 14.153.53.186
+2022-03-01 12:00:01,210 - common - INFO - ip not changed
+2022-03-01 12:00:01,210 - common - INFO - ip not changed
+2022-03-01 12:00:01,210 - common - INFO - ip not changed
+2022-03-01 12:00:01,211 - common - INFO - ip not changed, will not send out email
+2022-03-01 12:00:01,211 - common - INFO - ip not changed, will not send out email
+2022-03-01 12:00:01,211 - common - INFO - ip not changed, will not send out email
+2022-03-01 20:29:20,281 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 20:29:20,281 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 20:29:20,502 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.54.68
+2022-03-01 20:29:20,502 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.54.68
+2022-03-01 20:29:20,939 - common - INFO - b'{"RequestId":"EF6A47B7-25F7-5E20-91CB-7FC41445048E","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-01 20:29:20,939 - common - INFO - b'{"RequestId":"EF6A47B7-25F7-5E20-91CB-7FC41445048E","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-01 20:29:20,939 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 20:29:20,939 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 20:29:21,132 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.54.68
+2022-03-01 20:29:21,132 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.54.68
+2022-03-01 20:29:21,587 - common - INFO - b'{"RequestId":"ED7755D0-442F-5D4B-B17C-98A04951691C","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-01 20:29:21,587 - common - INFO - b'{"RequestId":"ED7755D0-442F-5D4B-B17C-98A04951691C","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-01 21:00:00,009 - common - INFO - read cache: 14.153.53.186
+2022-03-01 21:00:00,009 - common - INFO - read cache: 14.153.53.186
+2022-03-01 21:00:00,009 - common - INFO - read cache: 14.153.53.186
+2022-03-01 21:00:00,009 - common - INFO - read cache: 14.153.53.186
+2022-03-01 21:00:00,297 - common - INFO - ip not changed
+2022-03-01 21:00:00,297 - common - INFO - ip not changed
+2022-03-01 21:00:00,297 - common - INFO - ip not changed
+2022-03-01 21:00:00,297 - common - INFO - ip not changed
+2022-03-01 21:00:00,298 - common - INFO - read cache: 14.153.53.186
+2022-03-01 21:00:00,298 - common - INFO - read cache: 14.153.53.186
+2022-03-01 21:00:00,298 - common - INFO - read cache: 14.153.53.186
+2022-03-01 21:00:00,298 - common - INFO - read cache: 14.153.53.186
+2022-03-01 21:00:00,665 - common - INFO - ip not changed
+2022-03-01 21:00:00,665 - common - INFO - ip not changed
+2022-03-01 21:00:00,665 - common - INFO - ip not changed
+2022-03-01 21:00:00,665 - common - INFO - ip not changed
+2022-03-01 21:00:00,666 - common - INFO - ip not changed, will not send out email
+2022-03-01 21:00:00,666 - common - INFO - ip not changed, will not send out email
+2022-03-01 21:00:00,666 - common - INFO - ip not changed, will not send out email
+2022-03-01 21:00:00,666 - common - INFO - ip not changed, will not send out email
+2022-03-01 21:00:01,910 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 21:00:01,910 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 21:00:01,910 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 21:00:01,910 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 21:00:02,142 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.54.68
+2022-03-01 21:00:02,142 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.54.68
+2022-03-01 21:00:02,142 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.54.68
+2022-03-01 21:00:02,142 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.54.68
+2022-03-01 21:00:02,653 - common - INFO - b'{"RequestId":"33158BE7-A554-5673-BB85-20D555D66B64","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-01 21:00:02,653 - common - INFO - b'{"RequestId":"33158BE7-A554-5673-BB85-20D555D66B64","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-01 21:00:02,653 - common - INFO - b'{"RequestId":"33158BE7-A554-5673-BB85-20D555D66B64","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-01 21:00:02,653 - common - INFO - b'{"RequestId":"33158BE7-A554-5673-BB85-20D555D66B64","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-01 21:00:02,654 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 21:00:02,654 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 21:00:02,654 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 21:00:02,654 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 21:00:02,860 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.54.68
+2022-03-01 21:00:02,860 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.54.68
+2022-03-01 21:00:02,860 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.54.68
+2022-03-01 21:00:02,860 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.54.68
+2022-03-01 21:00:03,296 - common - INFO - b'{"RequestId":"F568A56B-2233-507B-9B1B-73D07F906EA8","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-01 21:00:03,296 - common - INFO - b'{"RequestId":"F568A56B-2233-507B-9B1B-73D07F906EA8","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-01 21:00:03,296 - common - INFO - b'{"RequestId":"F568A56B-2233-507B-9B1B-73D07F906EA8","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-01 21:00:03,296 - common - INFO - b'{"RequestId":"F568A56B-2233-507B-9B1B-73D07F906EA8","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-01 22:00:00,003 - common - INFO - read cache: 14.153.53.186
+2022-03-01 22:00:00,003 - common - INFO - read cache: 14.153.53.186
+2022-03-01 22:00:00,003 - common - INFO - read cache: 14.153.53.186
+2022-03-01 22:00:00,003 - common - INFO - read cache: 14.153.53.186
+2022-03-01 22:00:01,713 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 22:00:01,713 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 22:00:01,713 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 22:00:01,713 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 22:00:01,909 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 22:00:01,909 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 22:00:01,909 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 22:00:01,909 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 22:00:01,910 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 22:00:01,910 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 22:00:01,910 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 22:00:01,910 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 22:00:01,910 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 22:00:01,910 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 22:00:01,910 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 22:00:01,910 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 22:00:02,086 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 22:00:02,086 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 22:00:02,086 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 22:00:02,086 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 22:00:02,087 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 22:00:02,087 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 22:00:02,087 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 22:00:02,087 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 22:00:02,368 - common - INFO - ip not changed
+2022-03-01 22:00:02,368 - common - INFO - ip not changed
+2022-03-01 22:00:02,368 - common - INFO - ip not changed
+2022-03-01 22:00:02,368 - common - INFO - ip not changed
+2022-03-01 22:00:02,369 - common - INFO - read cache: 14.153.53.186
+2022-03-01 22:00:02,369 - common - INFO - read cache: 14.153.53.186
+2022-03-01 22:00:02,369 - common - INFO - read cache: 14.153.53.186
+2022-03-01 22:00:02,369 - common - INFO - read cache: 14.153.53.186
+2022-03-01 22:00:02,595 - common - INFO - ip not changed
+2022-03-01 22:00:02,595 - common - INFO - ip not changed
+2022-03-01 22:00:02,595 - common - INFO - ip not changed
+2022-03-01 22:00:02,595 - common - INFO - ip not changed
+2022-03-01 22:00:02,596 - common - INFO - ip not changed, will not send out email
+2022-03-01 22:00:02,596 - common - INFO - ip not changed, will not send out email
+2022-03-01 22:00:02,596 - common - INFO - ip not changed, will not send out email
+2022-03-01 22:00:02,596 - common - INFO - ip not changed, will not send out email
+2022-03-01 23:00:00,006 - common - INFO - read cache: 14.153.53.186
+2022-03-01 23:00:00,006 - common - INFO - read cache: 14.153.53.186
+2022-03-01 23:00:00,006 - common - INFO - read cache: 14.153.53.186
+2022-03-01 23:00:00,006 - common - INFO - read cache: 14.153.53.186
+2022-03-01 23:00:00,339 - common - INFO - ip not changed
+2022-03-01 23:00:00,339 - common - INFO - ip not changed
+2022-03-01 23:00:00,339 - common - INFO - ip not changed
+2022-03-01 23:00:00,339 - common - INFO - ip not changed
+2022-03-01 23:00:00,339 - common - INFO - read cache: 14.153.53.186
+2022-03-01 23:00:00,339 - common - INFO - read cache: 14.153.53.186
+2022-03-01 23:00:00,339 - common - INFO - read cache: 14.153.53.186
+2022-03-01 23:00:00,339 - common - INFO - read cache: 14.153.53.186
+2022-03-01 23:00:01,431 - common - INFO - ip not changed
+2022-03-01 23:00:01,431 - common - INFO - ip not changed
+2022-03-01 23:00:01,431 - common - INFO - ip not changed
+2022-03-01 23:00:01,431 - common - INFO - ip not changed
+2022-03-01 23:00:01,432 - common - INFO - ip not changed, will not send out email
+2022-03-01 23:00:01,432 - common - INFO - ip not changed, will not send out email
+2022-03-01 23:00:01,432 - common - INFO - ip not changed, will not send out email
+2022-03-01 23:00:01,432 - common - INFO - ip not changed, will not send out email
+2022-03-01 23:00:01,649 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 23:00:01,649 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 23:00:01,649 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 23:00:01,649 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-01 23:00:01,849 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 23:00:01,849 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 23:00:01,849 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 23:00:01,849 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 23:00:01,850 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 23:00:01,850 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 23:00:01,850 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 23:00:01,850 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 23:00:01,851 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 23:00:01,851 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 23:00:01,851 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 23:00:01,851 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-01 23:00:02,032 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 23:00:02,032 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 23:00:02,032 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 23:00:02,032 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-01 23:00:02,033 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 23:00:02,033 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 23:00:02,033 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-01 23:00:02,033 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 00:00:00,027 - common - INFO - read cache: 14.153.53.186
+2022-03-02 00:00:00,027 - common - INFO - read cache: 14.153.53.186
+2022-03-02 00:00:00,027 - common - INFO - read cache: 14.153.53.186
+2022-03-02 00:00:00,027 - common - INFO - read cache: 14.153.53.186
+2022-03-02 00:00:00,233 - common - INFO - ip not changed
+2022-03-02 00:00:00,233 - common - INFO - ip not changed
+2022-03-02 00:00:00,233 - common - INFO - ip not changed
+2022-03-02 00:00:00,233 - common - INFO - ip not changed
+2022-03-02 00:00:00,234 - common - INFO - read cache: 14.153.53.186
+2022-03-02 00:00:00,234 - common - INFO - read cache: 14.153.53.186
+2022-03-02 00:00:00,234 - common - INFO - read cache: 14.153.53.186
+2022-03-02 00:00:00,234 - common - INFO - read cache: 14.153.53.186
+2022-03-02 00:00:00,474 - common - INFO - ip not changed
+2022-03-02 00:00:00,474 - common - INFO - ip not changed
+2022-03-02 00:00:00,474 - common - INFO - ip not changed
+2022-03-02 00:00:00,474 - common - INFO - ip not changed
+2022-03-02 00:00:00,475 - common - INFO - ip not changed, will not send out email
+2022-03-02 00:00:00,475 - common - INFO - ip not changed, will not send out email
+2022-03-02 00:00:00,475 - common - INFO - ip not changed, will not send out email
+2022-03-02 00:00:00,475 - common - INFO - ip not changed, will not send out email
+2022-03-02 00:00:01,673 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 00:00:01,673 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 00:00:01,673 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 00:00:01,673 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 00:00:01,841 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 00:00:01,841 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 00:00:01,841 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 00:00:01,841 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 00:00:01,841 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 00:00:01,841 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 00:00:01,841 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 00:00:01,841 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 00:00:01,842 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 00:00:01,842 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 00:00:01,842 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 00:00:01,842 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 00:00:02,023 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 00:00:02,023 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 00:00:02,023 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 00:00:02,023 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 00:00:02,023 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 00:00:02,023 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 00:00:02,023 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 00:00:02,023 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 01:00:00,005 - common - INFO - read cache: 14.153.53.186
+2022-03-02 01:00:00,005 - common - INFO - read cache: 14.153.53.186
+2022-03-02 01:00:00,005 - common - INFO - read cache: 14.153.53.186
+2022-03-02 01:00:00,005 - common - INFO - read cache: 14.153.53.186
+2022-03-02 01:00:00,276 - common - INFO - ip not changed
+2022-03-02 01:00:00,276 - common - INFO - ip not changed
+2022-03-02 01:00:00,276 - common - INFO - ip not changed
+2022-03-02 01:00:00,276 - common - INFO - ip not changed
+2022-03-02 01:00:00,277 - common - INFO - read cache: 14.153.53.186
+2022-03-02 01:00:00,277 - common - INFO - read cache: 14.153.53.186
+2022-03-02 01:00:00,277 - common - INFO - read cache: 14.153.53.186
+2022-03-02 01:00:00,277 - common - INFO - read cache: 14.153.53.186
+2022-03-02 01:00:00,501 - common - INFO - ip not changed
+2022-03-02 01:00:00,501 - common - INFO - ip not changed
+2022-03-02 01:00:00,501 - common - INFO - ip not changed
+2022-03-02 01:00:00,501 - common - INFO - ip not changed
+2022-03-02 01:00:00,502 - common - INFO - ip not changed, will not send out email
+2022-03-02 01:00:00,502 - common - INFO - ip not changed, will not send out email
+2022-03-02 01:00:00,502 - common - INFO - ip not changed, will not send out email
+2022-03-02 01:00:00,502 - common - INFO - ip not changed, will not send out email
+2022-03-02 01:00:01,699 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 01:00:01,699 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 01:00:01,699 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 01:00:01,699 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 01:00:01,919 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 01:00:01,919 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 01:00:01,919 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 01:00:01,919 - common - INFO - useless.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 01:00:01,920 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 01:00:01,920 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 01:00:01,920 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 01:00:01,920 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 01:00:01,921 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 01:00:01,921 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 01:00:01,921 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 01:00:01,921 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 01:00:02,101 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 01:00:02,101 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 01:00:02,101 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 01:00:02,101 - common - INFO - www.gaapjan.com now host ip is 14.153.53.186, dns ip is 14.153.53.186
+2022-03-02 01:00:02,102 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 01:00:02,102 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 01:00:02,102 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 01:00:02,102 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 02:00:00,009 - common - INFO - read cache: 14.153.53.186
+2022-03-02 02:00:00,009 - common - INFO - read cache: 14.153.53.186
+2022-03-02 02:00:00,009 - common - INFO - read cache: 14.153.53.186
+2022-03-02 02:00:00,009 - common - INFO - read cache: 14.153.53.186
+2022-03-02 02:00:00,278 - common - INFO - current IP is 14.153.52.102 detect IP change
+2022-03-02 02:00:00,278 - common - INFO - current IP is 14.153.52.102 detect IP change
+2022-03-02 02:00:00,278 - common - INFO - current IP is 14.153.52.102 detect IP change
+2022-03-02 02:00:00,278 - common - INFO - current IP is 14.153.52.102 detect IP change
+2022-03-02 02:00:00,278 - common - INFO - detect IP change, will send email
+2022-03-02 02:00:00,278 - common - INFO - detect IP change, will send email
+2022-03-02 02:00:00,278 - common - INFO - detect IP change, will send email
+2022-03-02 02:00:00,278 - common - INFO - detect IP change, will send email
+2022-03-02 02:00:00,665 - common - INFO - smtp server connection is good
+2022-03-02 02:00:00,665 - common - INFO - smtp server connection is good
+2022-03-02 02:00:00,665 - common - INFO - smtp server connection is good
+2022-03-02 02:00:00,665 - common - INFO - smtp server connection is good
+2022-03-02 02:00:01,678 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 02:00:01,678 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 02:00:01,678 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 02:00:01,678 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 02:00:01,872 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.53.186
+2022-03-02 02:00:01,872 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.53.186
+2022-03-02 02:00:01,872 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.53.186
+2022-03-02 02:00:01,872 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.53.186
+2022-03-02 02:00:02,325 - common - INFO - b'{"RequestId":"BF96B123-FFC4-56B3-9969-C418FA5DDC18","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-02 02:00:02,325 - common - INFO - b'{"RequestId":"BF96B123-FFC4-56B3-9969-C418FA5DDC18","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-02 02:00:02,325 - common - INFO - b'{"RequestId":"BF96B123-FFC4-56B3-9969-C418FA5DDC18","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-02 02:00:02,325 - common - INFO - b'{"RequestId":"BF96B123-FFC4-56B3-9969-C418FA5DDC18","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-02 02:00:02,326 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 02:00:02,326 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 02:00:02,326 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 02:00:02,326 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 02:00:02,496 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.53.186
+2022-03-02 02:00:02,496 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.53.186
+2022-03-02 02:00:02,496 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.53.186
+2022-03-02 02:00:02,496 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.53.186
+2022-03-02 02:00:02,912 - common - INFO - b'{"RequestId":"32E506C5-6EB8-5CC4-A8D2-DC316B1084D3","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-02 02:00:02,912 - common - INFO - b'{"RequestId":"32E506C5-6EB8-5CC4-A8D2-DC316B1084D3","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-02 02:00:02,912 - common - INFO - b'{"RequestId":"32E506C5-6EB8-5CC4-A8D2-DC316B1084D3","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-02 02:00:02,912 - common - INFO - b'{"RequestId":"32E506C5-6EB8-5CC4-A8D2-DC316B1084D3","HostId":"alidns.aliyuncs.com","Code":"DomainRecordDuplicate","Message":"The DNS record already exists.","Recommend":"https://error-center.aliyun.com/status/search?Keyword=DomainRecordDuplicate&source=PopGw"}'
+2022-03-02 02:00:03,548 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-03-02 02:00:03
+2022-03-02 02:00:03,548 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-03-02 02:00:03
+2022-03-02 02:00:03,548 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-03-02 02:00:03
+2022-03-02 02:00:03,548 - common - INFO - sent email to ['fushengzhen@163.com']  at: 2022-03-02 02:00:03
+2022-03-02 02:00:04,253 - common - INFO - saved current IP 14.153.52.102 to cache
+2022-03-02 02:00:04,253 - common - INFO - saved current IP 14.153.52.102 to cache
+2022-03-02 02:00:04,253 - common - INFO - saved current IP 14.153.52.102 to cache
+2022-03-02 02:00:04,253 - common - INFO - saved current IP 14.153.52.102 to cache
+2022-03-02 03:00:00,003 - common - INFO - read cache: 14.153.52.102
+2022-03-02 03:00:00,003 - common - INFO - read cache: 14.153.52.102
+2022-03-02 03:00:00,003 - common - INFO - read cache: 14.153.52.102
+2022-03-02 03:00:00,003 - common - INFO - read cache: 14.153.52.102
+2022-03-02 03:00:00,392 - common - INFO - ip not changed
+2022-03-02 03:00:00,392 - common - INFO - ip not changed
+2022-03-02 03:00:00,392 - common - INFO - ip not changed
+2022-03-02 03:00:00,392 - common - INFO - ip not changed
+2022-03-02 03:00:00,392 - common - INFO - read cache: 14.153.52.102
+2022-03-02 03:00:00,392 - common - INFO - read cache: 14.153.52.102
+2022-03-02 03:00:00,392 - common - INFO - read cache: 14.153.52.102
+2022-03-02 03:00:00,392 - common - INFO - read cache: 14.153.52.102
+2022-03-02 03:00:00,641 - common - INFO - ip not changed
+2022-03-02 03:00:00,641 - common - INFO - ip not changed
+2022-03-02 03:00:00,641 - common - INFO - ip not changed
+2022-03-02 03:00:00,641 - common - INFO - ip not changed
+2022-03-02 03:00:00,642 - common - INFO - ip not changed, will not send out email
+2022-03-02 03:00:00,642 - common - INFO - ip not changed, will not send out email
+2022-03-02 03:00:00,642 - common - INFO - ip not changed, will not send out email
+2022-03-02 03:00:00,642 - common - INFO - ip not changed, will not send out email
+2022-03-02 03:00:01,690 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 03:00:01,690 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 03:00:01,690 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 03:00:01,690 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 03:00:01,918 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 03:00:01,918 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 03:00:01,918 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 03:00:01,918 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 03:00:01,919 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 03:00:01,919 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 03:00:01,919 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 03:00:01,919 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 03:00:01,919 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 03:00:01,919 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 03:00:01,919 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 03:00:01,919 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 03:00:02,092 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 03:00:02,092 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 03:00:02,092 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 03:00:02,092 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 03:00:02,092 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 03:00:02,092 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 03:00:02,092 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 03:00:02,092 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 04:00:00,003 - common - INFO - read cache: 14.153.52.102
+2022-03-02 04:00:00,003 - common - INFO - read cache: 14.153.52.102
+2022-03-02 04:00:00,003 - common - INFO - read cache: 14.153.52.102
+2022-03-02 04:00:00,003 - common - INFO - read cache: 14.153.52.102
+2022-03-02 04:00:00,247 - common - INFO - ip not changed
+2022-03-02 04:00:00,247 - common - INFO - ip not changed
+2022-03-02 04:00:00,247 - common - INFO - ip not changed
+2022-03-02 04:00:00,247 - common - INFO - ip not changed
+2022-03-02 04:00:00,248 - common - INFO - read cache: 14.153.52.102
+2022-03-02 04:00:00,248 - common - INFO - read cache: 14.153.52.102
+2022-03-02 04:00:00,248 - common - INFO - read cache: 14.153.52.102
+2022-03-02 04:00:00,248 - common - INFO - read cache: 14.153.52.102
+2022-03-02 04:00:00,417 - common - INFO - ip not changed
+2022-03-02 04:00:00,417 - common - INFO - ip not changed
+2022-03-02 04:00:00,417 - common - INFO - ip not changed
+2022-03-02 04:00:00,417 - common - INFO - ip not changed
+2022-03-02 04:00:00,418 - common - INFO - ip not changed, will not send out email
+2022-03-02 04:00:00,418 - common - INFO - ip not changed, will not send out email
+2022-03-02 04:00:00,418 - common - INFO - ip not changed, will not send out email
+2022-03-02 04:00:00,418 - common - INFO - ip not changed, will not send out email
+2022-03-02 04:00:01,670 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 04:00:01,670 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 04:00:01,670 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 04:00:01,670 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 04:00:01,850 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 04:00:01,850 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 04:00:01,850 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 04:00:01,850 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 04:00:01,850 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 04:00:01,850 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 04:00:01,850 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 04:00:01,850 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 04:00:01,851 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 04:00:01,851 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 04:00:01,851 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 04:00:01,851 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 04:00:02,030 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 04:00:02,030 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 04:00:02,030 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 04:00:02,030 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 04:00:02,031 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 04:00:02,031 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 04:00:02,031 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 04:00:02,031 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 05:00:00,012 - common - INFO - read cache: 14.153.52.102
+2022-03-02 05:00:00,012 - common - INFO - read cache: 14.153.52.102
+2022-03-02 05:00:00,012 - common - INFO - read cache: 14.153.52.102
+2022-03-02 05:00:00,012 - common - INFO - read cache: 14.153.52.102
+2022-03-02 05:00:00,340 - common - INFO - ip not changed
+2022-03-02 05:00:00,340 - common - INFO - ip not changed
+2022-03-02 05:00:00,340 - common - INFO - ip not changed
+2022-03-02 05:00:00,340 - common - INFO - ip not changed
+2022-03-02 05:00:00,341 - common - INFO - read cache: 14.153.52.102
+2022-03-02 05:00:00,341 - common - INFO - read cache: 14.153.52.102
+2022-03-02 05:00:00,341 - common - INFO - read cache: 14.153.52.102
+2022-03-02 05:00:00,341 - common - INFO - read cache: 14.153.52.102
+2022-03-02 05:00:00,728 - common - INFO - ip not changed
+2022-03-02 05:00:00,728 - common - INFO - ip not changed
+2022-03-02 05:00:00,728 - common - INFO - ip not changed
+2022-03-02 05:00:00,728 - common - INFO - ip not changed
+2022-03-02 05:00:00,728 - common - INFO - ip not changed, will not send out email
+2022-03-02 05:00:00,728 - common - INFO - ip not changed, will not send out email
+2022-03-02 05:00:00,728 - common - INFO - ip not changed, will not send out email
+2022-03-02 05:00:00,728 - common - INFO - ip not changed, will not send out email
+2022-03-02 05:00:01,687 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 05:00:01,687 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 05:00:01,687 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 05:00:01,687 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 05:00:01,892 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 05:00:01,892 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 05:00:01,892 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 05:00:01,892 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 05:00:01,893 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 05:00:01,893 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 05:00:01,893 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 05:00:01,893 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 05:00:01,893 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 05:00:01,893 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 05:00:01,893 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 05:00:01,893 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 05:00:02,065 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 05:00:02,065 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 05:00:02,065 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 05:00:02,065 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 05:00:02,066 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 05:00:02,066 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 05:00:02,066 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 05:00:02,066 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 06:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 06:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 06:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 06:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 06:00:00,396 - common - INFO - ip not changed
+2022-03-02 06:00:00,396 - common - INFO - ip not changed
+2022-03-02 06:00:00,396 - common - INFO - ip not changed
+2022-03-02 06:00:00,396 - common - INFO - ip not changed
+2022-03-02 06:00:00,398 - common - INFO - read cache: 14.153.52.102
+2022-03-02 06:00:00,398 - common - INFO - read cache: 14.153.52.102
+2022-03-02 06:00:00,398 - common - INFO - read cache: 14.153.52.102
+2022-03-02 06:00:00,398 - common - INFO - read cache: 14.153.52.102
+2022-03-02 06:00:00,832 - common - INFO - ip not changed
+2022-03-02 06:00:00,832 - common - INFO - ip not changed
+2022-03-02 06:00:00,832 - common - INFO - ip not changed
+2022-03-02 06:00:00,832 - common - INFO - ip not changed
+2022-03-02 06:00:00,833 - common - INFO - ip not changed, will not send out email
+2022-03-02 06:00:00,833 - common - INFO - ip not changed, will not send out email
+2022-03-02 06:00:00,833 - common - INFO - ip not changed, will not send out email
+2022-03-02 06:00:00,833 - common - INFO - ip not changed, will not send out email
+2022-03-02 06:00:01,684 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 06:00:01,684 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 06:00:01,684 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 06:00:01,684 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 06:00:01,874 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 06:00:01,874 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 06:00:01,874 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 06:00:01,874 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 06:00:01,874 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 06:00:01,874 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 06:00:01,874 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 06:00:01,874 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 06:00:01,875 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 06:00:01,875 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 06:00:01,875 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 06:00:01,875 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 06:00:02,077 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 06:00:02,077 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 06:00:02,077 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 06:00:02,077 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 06:00:02,077 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 06:00:02,077 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 06:00:02,077 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 06:00:02,077 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 07:00:00,007 - common - INFO - read cache: 14.153.52.102
+2022-03-02 07:00:00,007 - common - INFO - read cache: 14.153.52.102
+2022-03-02 07:00:00,007 - common - INFO - read cache: 14.153.52.102
+2022-03-02 07:00:00,007 - common - INFO - read cache: 14.153.52.102
+2022-03-02 07:00:00,335 - common - INFO - ip not changed
+2022-03-02 07:00:00,335 - common - INFO - ip not changed
+2022-03-02 07:00:00,335 - common - INFO - ip not changed
+2022-03-02 07:00:00,335 - common - INFO - ip not changed
+2022-03-02 07:00:00,336 - common - INFO - read cache: 14.153.52.102
+2022-03-02 07:00:00,336 - common - INFO - read cache: 14.153.52.102
+2022-03-02 07:00:00,336 - common - INFO - read cache: 14.153.52.102
+2022-03-02 07:00:00,336 - common - INFO - read cache: 14.153.52.102
+2022-03-02 07:00:00,522 - common - INFO - ip not changed
+2022-03-02 07:00:00,522 - common - INFO - ip not changed
+2022-03-02 07:00:00,522 - common - INFO - ip not changed
+2022-03-02 07:00:00,522 - common - INFO - ip not changed
+2022-03-02 07:00:00,524 - common - INFO - ip not changed, will not send out email
+2022-03-02 07:00:00,524 - common - INFO - ip not changed, will not send out email
+2022-03-02 07:00:00,524 - common - INFO - ip not changed, will not send out email
+2022-03-02 07:00:00,524 - common - INFO - ip not changed, will not send out email
+2022-03-02 07:00:01,678 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 07:00:01,678 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 07:00:01,678 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 07:00:01,678 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 07:00:01,851 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 07:00:01,851 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 07:00:01,851 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 07:00:01,851 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 07:00:01,851 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 07:00:01,851 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 07:00:01,851 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 07:00:01,851 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 07:00:01,852 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 07:00:01,852 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 07:00:01,852 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 07:00:01,852 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 07:00:02,055 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 07:00:02,055 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 07:00:02,055 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 07:00:02,055 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 07:00:02,056 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 07:00:02,056 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 07:00:02,056 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 07:00:02,056 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 10:00:00,013 - common - INFO - read cache: 14.153.52.102
+2022-03-02 10:00:00,013 - common - INFO - read cache: 14.153.52.102
+2022-03-02 10:00:00,013 - common - INFO - read cache: 14.153.52.102
+2022-03-02 10:00:00,013 - common - INFO - read cache: 14.153.52.102
+2022-03-02 10:00:01,350 - common - INFO - ip not changed
+2022-03-02 10:00:01,350 - common - INFO - ip not changed
+2022-03-02 10:00:01,350 - common - INFO - ip not changed
+2022-03-02 10:00:01,350 - common - INFO - ip not changed
+2022-03-02 10:00:01,350 - common - INFO - read cache: 14.153.52.102
+2022-03-02 10:00:01,350 - common - INFO - read cache: 14.153.52.102
+2022-03-02 10:00:01,350 - common - INFO - read cache: 14.153.52.102
+2022-03-02 10:00:01,350 - common - INFO - read cache: 14.153.52.102
+2022-03-02 10:00:01,671 - common - INFO - ip not changed
+2022-03-02 10:00:01,671 - common - INFO - ip not changed
+2022-03-02 10:00:01,671 - common - INFO - ip not changed
+2022-03-02 10:00:01,671 - common - INFO - ip not changed
+2022-03-02 10:00:01,672 - common - INFO - ip not changed, will not send out email
+2022-03-02 10:00:01,672 - common - INFO - ip not changed, will not send out email
+2022-03-02 10:00:01,672 - common - INFO - ip not changed, will not send out email
+2022-03-02 10:00:01,672 - common - INFO - ip not changed, will not send out email
+2022-03-02 10:00:01,764 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 10:00:01,764 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 10:00:01,764 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 10:00:01,764 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 10:00:01,946 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 10:00:01,946 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 10:00:01,946 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 10:00:01,946 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 10:00:01,946 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 10:00:01,946 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 10:00:01,946 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 10:00:01,946 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 10:00:01,947 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 10:00:01,947 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 10:00:01,947 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 10:00:01,947 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 10:00:02,163 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 10:00:02,163 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 10:00:02,163 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 10:00:02,163 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 10:00:02,164 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 10:00:02,164 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 10:00:02,164 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 10:00:02,164 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 11:00:00,011 - common - INFO - read cache: 14.153.52.102
+2022-03-02 11:00:00,011 - common - INFO - read cache: 14.153.52.102
+2022-03-02 11:00:00,011 - common - INFO - read cache: 14.153.52.102
+2022-03-02 11:00:00,011 - common - INFO - read cache: 14.153.52.102
+2022-03-02 11:00:00,258 - common - INFO - ip not changed
+2022-03-02 11:00:00,258 - common - INFO - ip not changed
+2022-03-02 11:00:00,258 - common - INFO - ip not changed
+2022-03-02 11:00:00,258 - common - INFO - ip not changed
+2022-03-02 11:00:00,259 - common - INFO - read cache: 14.153.52.102
+2022-03-02 11:00:00,259 - common - INFO - read cache: 14.153.52.102
+2022-03-02 11:00:00,259 - common - INFO - read cache: 14.153.52.102
+2022-03-02 11:00:00,259 - common - INFO - read cache: 14.153.52.102
+2022-03-02 11:00:00,556 - common - INFO - ip not changed
+2022-03-02 11:00:00,556 - common - INFO - ip not changed
+2022-03-02 11:00:00,556 - common - INFO - ip not changed
+2022-03-02 11:00:00,556 - common - INFO - ip not changed
+2022-03-02 11:00:00,557 - common - INFO - ip not changed, will not send out email
+2022-03-02 11:00:00,557 - common - INFO - ip not changed, will not send out email
+2022-03-02 11:00:00,557 - common - INFO - ip not changed, will not send out email
+2022-03-02 11:00:00,557 - common - INFO - ip not changed, will not send out email
+2022-03-02 11:00:01,687 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 11:00:01,687 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 11:00:01,687 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 11:00:01,687 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 11:00:01,928 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 11:00:01,928 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 11:00:01,928 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 11:00:01,928 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 11:00:01,928 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 11:00:01,928 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 11:00:01,928 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 11:00:01,928 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 11:00:01,929 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 11:00:01,929 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 11:00:01,929 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 11:00:01,929 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 11:00:02,137 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 11:00:02,137 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 11:00:02,137 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 11:00:02,137 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 11:00:02,138 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 11:00:02,138 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 11:00:02,138 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 11:00:02,138 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 12:00:00,001 - common - INFO - read cache: 14.153.52.102
+2022-03-02 12:00:00,001 - common - INFO - read cache: 14.153.52.102
+2022-03-02 12:00:00,001 - common - INFO - read cache: 14.153.52.102
+2022-03-02 12:00:00,001 - common - INFO - read cache: 14.153.52.102
+2022-03-02 12:00:00,258 - common - INFO - ip not changed
+2022-03-02 12:00:00,258 - common - INFO - ip not changed
+2022-03-02 12:00:00,258 - common - INFO - ip not changed
+2022-03-02 12:00:00,258 - common - INFO - ip not changed
+2022-03-02 12:00:00,259 - common - INFO - read cache: 14.153.52.102
+2022-03-02 12:00:00,259 - common - INFO - read cache: 14.153.52.102
+2022-03-02 12:00:00,259 - common - INFO - read cache: 14.153.52.102
+2022-03-02 12:00:00,259 - common - INFO - read cache: 14.153.52.102
+2022-03-02 12:00:00,508 - common - INFO - ip not changed
+2022-03-02 12:00:00,508 - common - INFO - ip not changed
+2022-03-02 12:00:00,508 - common - INFO - ip not changed
+2022-03-02 12:00:00,508 - common - INFO - ip not changed
+2022-03-02 12:00:00,509 - common - INFO - ip not changed, will not send out email
+2022-03-02 12:00:00,509 - common - INFO - ip not changed, will not send out email
+2022-03-02 12:00:00,509 - common - INFO - ip not changed, will not send out email
+2022-03-02 12:00:00,509 - common - INFO - ip not changed, will not send out email
+2022-03-02 12:00:01,651 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 12:00:01,651 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 12:00:01,651 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 12:00:01,651 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 12:00:01,828 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 12:00:01,828 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 12:00:01,828 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 12:00:01,828 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 12:00:01,829 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 12:00:01,829 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 12:00:01,829 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 12:00:01,829 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 12:00:01,830 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 12:00:01,830 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 12:00:01,830 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 12:00:01,830 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 12:00:02,014 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 12:00:02,014 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 12:00:02,014 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 12:00:02,014 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 12:00:02,015 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 12:00:02,015 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 12:00:02,015 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 12:00:02,015 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 13:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 13:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 13:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 13:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 13:00:00,859 - common - INFO - ip not changed
+2022-03-02 13:00:00,859 - common - INFO - ip not changed
+2022-03-02 13:00:00,859 - common - INFO - ip not changed
+2022-03-02 13:00:00,859 - common - INFO - ip not changed
+2022-03-02 13:00:00,860 - common - INFO - read cache: 14.153.52.102
+2022-03-02 13:00:00,860 - common - INFO - read cache: 14.153.52.102
+2022-03-02 13:00:00,860 - common - INFO - read cache: 14.153.52.102
+2022-03-02 13:00:00,860 - common - INFO - read cache: 14.153.52.102
+2022-03-02 13:00:01,103 - common - INFO - ip not changed
+2022-03-02 13:00:01,103 - common - INFO - ip not changed
+2022-03-02 13:00:01,103 - common - INFO - ip not changed
+2022-03-02 13:00:01,103 - common - INFO - ip not changed
+2022-03-02 13:00:01,103 - common - INFO - ip not changed, will not send out email
+2022-03-02 13:00:01,103 - common - INFO - ip not changed, will not send out email
+2022-03-02 13:00:01,103 - common - INFO - ip not changed, will not send out email
+2022-03-02 13:00:01,103 - common - INFO - ip not changed, will not send out email
+2022-03-02 13:00:01,666 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 13:00:01,666 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 13:00:01,666 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 13:00:01,666 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 13:00:01,868 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 13:00:01,868 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 13:00:01,868 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 13:00:01,868 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 13:00:01,869 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 13:00:01,869 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 13:00:01,869 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 13:00:01,869 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 13:00:01,870 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 13:00:01,870 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 13:00:01,870 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 13:00:01,870 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 13:00:02,047 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 13:00:02,047 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 13:00:02,047 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 13:00:02,047 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 13:00:02,048 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 13:00:02,048 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 13:00:02,048 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 13:00:02,048 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 14:00:00,038 - common - INFO - read cache: 14.153.52.102
+2022-03-02 14:00:00,038 - common - INFO - read cache: 14.153.52.102
+2022-03-02 14:00:00,038 - common - INFO - read cache: 14.153.52.102
+2022-03-02 14:00:00,038 - common - INFO - read cache: 14.153.52.102
+2022-03-02 14:00:01,019 - common - INFO - ip not changed
+2022-03-02 14:00:01,019 - common - INFO - ip not changed
+2022-03-02 14:00:01,019 - common - INFO - ip not changed
+2022-03-02 14:00:01,019 - common - INFO - ip not changed
+2022-03-02 14:00:01,020 - common - INFO - read cache: 14.153.52.102
+2022-03-02 14:00:01,020 - common - INFO - read cache: 14.153.52.102
+2022-03-02 14:00:01,020 - common - INFO - read cache: 14.153.52.102
+2022-03-02 14:00:01,020 - common - INFO - read cache: 14.153.52.102
+2022-03-02 14:00:01,678 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 14:00:01,678 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 14:00:01,678 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 14:00:01,678 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 14:00:01,817 - common - INFO - ip not changed
+2022-03-02 14:00:01,817 - common - INFO - ip not changed
+2022-03-02 14:00:01,817 - common - INFO - ip not changed
+2022-03-02 14:00:01,817 - common - INFO - ip not changed
+2022-03-02 14:00:01,817 - common - INFO - ip not changed, will not send out email
+2022-03-02 14:00:01,817 - common - INFO - ip not changed, will not send out email
+2022-03-02 14:00:01,817 - common - INFO - ip not changed, will not send out email
+2022-03-02 14:00:01,817 - common - INFO - ip not changed, will not send out email
+2022-03-02 14:00:01,852 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 14:00:01,852 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 14:00:01,852 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 14:00:01,852 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 14:00:01,853 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 14:00:01,853 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 14:00:01,853 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 14:00:01,853 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 14:00:01,854 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 14:00:01,854 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 14:00:01,854 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 14:00:01,854 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 14:00:02,050 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 14:00:02,050 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 14:00:02,050 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 14:00:02,050 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 14:00:02,051 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 14:00:02,051 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 14:00:02,051 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 14:00:02,051 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 15:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 15:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 15:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 15:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 15:00:00,229 - common - INFO - ip not changed
+2022-03-02 15:00:00,229 - common - INFO - ip not changed
+2022-03-02 15:00:00,229 - common - INFO - ip not changed
+2022-03-02 15:00:00,229 - common - INFO - ip not changed
+2022-03-02 15:00:00,230 - common - INFO - read cache: 14.153.52.102
+2022-03-02 15:00:00,230 - common - INFO - read cache: 14.153.52.102
+2022-03-02 15:00:00,230 - common - INFO - read cache: 14.153.52.102
+2022-03-02 15:00:00,230 - common - INFO - read cache: 14.153.52.102
+2022-03-02 15:00:00,466 - common - INFO - ip not changed
+2022-03-02 15:00:00,466 - common - INFO - ip not changed
+2022-03-02 15:00:00,466 - common - INFO - ip not changed
+2022-03-02 15:00:00,466 - common - INFO - ip not changed
+2022-03-02 15:00:00,467 - common - INFO - ip not changed, will not send out email
+2022-03-02 15:00:00,467 - common - INFO - ip not changed, will not send out email
+2022-03-02 15:00:00,467 - common - INFO - ip not changed, will not send out email
+2022-03-02 15:00:00,467 - common - INFO - ip not changed, will not send out email
+2022-03-02 15:00:01,739 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 15:00:01,739 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 15:00:01,739 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 15:00:01,739 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 15:00:01,921 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 15:00:01,921 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 15:00:01,921 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 15:00:01,921 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 15:00:01,921 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 15:00:01,921 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 15:00:01,921 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 15:00:01,921 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 15:00:01,922 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 15:00:01,922 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 15:00:01,922 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 15:00:01,922 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 15:00:02,112 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 15:00:02,112 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 15:00:02,112 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 15:00:02,112 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 15:00:02,113 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 15:00:02,113 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 15:00:02,113 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 15:00:02,113 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 16:00:00,010 - common - INFO - read cache: 14.153.52.102
+2022-03-02 16:00:00,010 - common - INFO - read cache: 14.153.52.102
+2022-03-02 16:00:00,010 - common - INFO - read cache: 14.153.52.102
+2022-03-02 16:00:00,010 - common - INFO - read cache: 14.153.52.102
+2022-03-02 16:00:01,746 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 16:00:01,746 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 16:00:01,746 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 16:00:01,746 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 16:00:01,921 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 16:00:01,921 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 16:00:01,921 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 16:00:01,921 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 16:00:01,922 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 16:00:01,922 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 16:00:01,922 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 16:00:01,922 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 16:00:01,922 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 16:00:01,922 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 16:00:01,922 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 16:00:01,922 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 16:00:02,095 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 16:00:02,095 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 16:00:02,095 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 16:00:02,095 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 16:00:02,096 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 16:00:02,096 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 16:00:02,096 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 16:00:02,096 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 16:00:02,820 - common - INFO - ip not changed
+2022-03-02 16:00:02,820 - common - INFO - ip not changed
+2022-03-02 16:00:02,820 - common - INFO - ip not changed
+2022-03-02 16:00:02,820 - common - INFO - ip not changed
+2022-03-02 16:00:02,821 - common - INFO - read cache: 14.153.52.102
+2022-03-02 16:00:02,821 - common - INFO - read cache: 14.153.52.102
+2022-03-02 16:00:02,821 - common - INFO - read cache: 14.153.52.102
+2022-03-02 16:00:02,821 - common - INFO - read cache: 14.153.52.102
+2022-03-02 16:00:03,088 - common - INFO - ip not changed
+2022-03-02 16:00:03,088 - common - INFO - ip not changed
+2022-03-02 16:00:03,088 - common - INFO - ip not changed
+2022-03-02 16:00:03,088 - common - INFO - ip not changed
+2022-03-02 16:00:03,088 - common - INFO - ip not changed, will not send out email
+2022-03-02 16:00:03,088 - common - INFO - ip not changed, will not send out email
+2022-03-02 16:00:03,088 - common - INFO - ip not changed, will not send out email
+2022-03-02 16:00:03,088 - common - INFO - ip not changed, will not send out email
+2022-03-02 17:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 17:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 17:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 17:00:00,008 - common - INFO - read cache: 14.153.52.102
+2022-03-02 17:00:00,374 - common - INFO - ip not changed
+2022-03-02 17:00:00,374 - common - INFO - ip not changed
+2022-03-02 17:00:00,374 - common - INFO - ip not changed
+2022-03-02 17:00:00,374 - common - INFO - ip not changed
+2022-03-02 17:00:00,375 - common - INFO - read cache: 14.153.52.102
+2022-03-02 17:00:00,375 - common - INFO - read cache: 14.153.52.102
+2022-03-02 17:00:00,375 - common - INFO - read cache: 14.153.52.102
+2022-03-02 17:00:00,375 - common - INFO - read cache: 14.153.52.102
+2022-03-02 17:00:00,617 - common - INFO - ip not changed
+2022-03-02 17:00:00,617 - common - INFO - ip not changed
+2022-03-02 17:00:00,617 - common - INFO - ip not changed
+2022-03-02 17:00:00,617 - common - INFO - ip not changed
+2022-03-02 17:00:00,618 - common - INFO - ip not changed, will not send out email
+2022-03-02 17:00:00,618 - common - INFO - ip not changed, will not send out email
+2022-03-02 17:00:00,618 - common - INFO - ip not changed, will not send out email
+2022-03-02 17:00:00,618 - common - INFO - ip not changed, will not send out email
+2022-03-02 17:00:01,742 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 17:00:01,742 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 17:00:01,742 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 17:00:01,742 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 17:00:01,913 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 17:00:01,913 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 17:00:01,913 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 17:00:01,913 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 17:00:01,914 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 17:00:01,914 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 17:00:01,914 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 17:00:01,914 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 17:00:01,914 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 17:00:01,914 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 17:00:01,914 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 17:00:01,914 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 17:00:02,101 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 17:00:02,101 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 17:00:02,101 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 17:00:02,101 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 17:00:02,102 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 17:00:02,102 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 17:00:02,102 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 17:00:02,102 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 18:00:00,005 - common - INFO - read cache: 14.153.52.102
+2022-03-02 18:00:00,005 - common - INFO - read cache: 14.153.52.102
+2022-03-02 18:00:00,005 - common - INFO - read cache: 14.153.52.102
+2022-03-02 18:00:00,005 - common - INFO - read cache: 14.153.52.102
+2022-03-02 18:00:00,854 - common - INFO - ip not changed
+2022-03-02 18:00:00,854 - common - INFO - ip not changed
+2022-03-02 18:00:00,854 - common - INFO - ip not changed
+2022-03-02 18:00:00,854 - common - INFO - ip not changed
+2022-03-02 18:00:00,854 - common - INFO - read cache: 14.153.52.102
+2022-03-02 18:00:00,854 - common - INFO - read cache: 14.153.52.102
+2022-03-02 18:00:00,854 - common - INFO - read cache: 14.153.52.102
+2022-03-02 18:00:00,854 - common - INFO - read cache: 14.153.52.102
+2022-03-02 18:00:01,739 - common - INFO - ip not changed
+2022-03-02 18:00:01,739 - common - INFO - ip not changed
+2022-03-02 18:00:01,739 - common - INFO - ip not changed
+2022-03-02 18:00:01,739 - common - INFO - ip not changed
+2022-03-02 18:00:01,740 - common - INFO - ip not changed, will not send out email
+2022-03-02 18:00:01,740 - common - INFO - ip not changed, will not send out email
+2022-03-02 18:00:01,740 - common - INFO - ip not changed, will not send out email
+2022-03-02 18:00:01,740 - common - INFO - ip not changed, will not send out email
+2022-03-02 18:00:01,742 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 18:00:01,742 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 18:00:01,742 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 18:00:01,742 - common - INFO - useless.gaapjan.com recordID is 749308298390438912
+2022-03-02 18:00:01,926 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 18:00:01,926 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 18:00:01,926 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 18:00:01,926 - common - INFO - useless.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 18:00:01,927 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 18:00:01,927 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 18:00:01,927 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 18:00:01,927 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 18:00:01,927 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 18:00:01,927 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 18:00:01,927 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 18:00:01,927 - common - INFO - www.gaapjan.com recordID is 748792365774252032
+2022-03-02 18:00:02,131 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 18:00:02,131 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 18:00:02,131 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 18:00:02,131 - common - INFO - www.gaapjan.com now host ip is 14.153.52.102, dns ip is 14.153.52.102
+2022-03-02 18:00:02,132 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 18:00:02,132 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 18:00:02,132 - common - INFO - The specified value of A record Value is the same as old, canceling the update
+2022-03-02 18:00:02,132 - common - INFO - The specified value of A record Value is the same as old, canceling the update
