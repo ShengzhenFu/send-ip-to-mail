@@ -8,12 +8,91 @@ from aliyunsdkalidns.request.v20150109.UpdateDomainRecordRequest import UpdateDo
 from aliyunsdkalidns.request.v20150109.DescribeDomainRecordInfoRequest import DescribeDomainRecordInfoRequest
 from settings import accessKeyId, accessSecret, domainName
 import json
+import subprocess
+import platform
 from getIp import get_internet_ip
 from common import Log
 
 logger = Log()
 rc_format = 'json'
 dns_domain = domainName
+
+"""
+identify OS type
+OS	                 Value
+Linux (2.x and 3.x)	'Linux2'
+Windows	            'Win32'
+Windows/Cygwin	    'Cygwin'
+Mac OS X	        'Darwin'
+OS/2	            'Os2'
+OS/2 EMX	        'Os2emx'
+RiscOS	            'Riscos'
+RiscOS	            'Riscos'
+AtheOS	            'Atheos'
+"""
+def typeOfOS():
+    plat_tuple=platform.architecture()
+    system=platform.system()
+    plat_version=platform.platform()
+    # print(f'A {plat_tuple[0]} - {system} - version {plat_version}')
+    if system == 'Darwin':
+        print(f'this is a {plat_tuple[0]} Mac OS X system, version: {plat_version}')
+        logger.info(f'this is a {plat_tuple[0]} Mac OS X system, version: {plat_version}')
+        return 'Mac'
+        
+    elif system == 'Linux':
+        print(f'this is a {plat_tuple[0]}  Linux system \n version: {plat_version}')
+        logger.info(f'this is a {plat_tuple[0]}  Linux system \n version: {plat_version}')
+        return 'Linux'
+
+    elif system == 'Win32':
+        print(f'this is a {plat_tuple[0]} Windows system \n version: {plat_version}')
+        logger.info(f'this is a {plat_tuple[0]} Windows system \n version: {plat_version}')
+        return 'Windows'
+        
+"""
+run shell
+"""
+def runShell(cmd_shell):
+    CompletedProcessObject=subprocess.run(args=cmd_shell,shell=True,stdin=subprocess.PIPE,stdout=subprocess.PIPE,
+                         stderr=subprocess.PIPE,universal_newlines=True,timeout=10,check=False)
+    if CompletedProcessObject:
+           code,out,err=CompletedProcessObject.returncode,CompletedProcessObject.stdout,CompletedProcessObject.stderr
+    output = str.strip(out)
+    error = str.strip(err)
+    return code, output, error
+
+"""
+disConnect VPN
+"""
+def disconnectVpn():
+    # currently support Mac OS X Monterey
+    if typeOfOS() == 'Mac':
+        str_shell="lsof '/Applications/ExpressVPN.app/Contents/MacOS/ExpressVPN' | awk 'NR==2{print $2}'"
+        results = runShell(str_shell)
+        code = results[0]
+        output = results[1]
+        error = results[2]
+        print(f'code {code}, out {output}, err {error}')
+        if code ==0:
+            if output:
+                kill_shell="kill "+output
+                runKill = subprocess.Popen(kill_shell, shell=True)
+                runKill.wait()
+                print(f'vpn process has been ended with status {runKill.returncode}')
+                logger.info(f'vpn process has been ended with status {runKill.returncode}')
+                return output
+            if error:
+                logger.error(error)
+                return error
+        else:
+            if code ==1:
+                logger.error("语法输出对象为空")
+            else:
+                #logger.info(code)
+                raise subprocess.CalledProcessError(code,str_shell)
+    else: print("sorry, we don't support your OS yet, please use Mac OS X" )
+    # TODO: support Linux and Windows
 
 """
 获取域名的解析信息
@@ -67,6 +146,8 @@ def getOldIp(record_id):
     return result
 
 def updateAllDns():
+    # disconnect VPN before update DDNS
+    disconnectVpn()
     dns_records = checkRecords(dns_domain)
     # 获取主机当前的IP
     current_ip = get_internet_ip()
@@ -108,7 +189,7 @@ def updateAllDns():
             
             print(updateDns(rc_rr, rc_type, rc_value, rc_record_id, rc_ttl, rc_format))
             logger.info(updateDns(rc_rr, rc_type, rc_value, rc_record_id, rc_ttl, rc_format))
-
+    
 
 if __name__ == '__main__':
     updateAllDns()
