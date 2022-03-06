@@ -4,11 +4,14 @@ import requests
 import re
 import subprocess
 import time
+import os
 from common import Log
+import urllib.request
 
 logger = Log()
 
 def cmd_reset_wifi(delay):
+    # for windows ONLY
     # cmd = 'cmd.exe D:/code/send-ip-to-mail-py/reset_wifi.bat'
     p = subprocess.Popen("cmd.exe /c" + "D:/code/send-ip-to-mail-py/reset_wifi.bat", stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
     curline = p.stdout.readline()
@@ -32,5 +35,18 @@ def getIp():
     for ip in ips:
         lst.append(pattern.search(ips)[0])
     #print(str(lst[0]))
-    #resp.close()
     return str(lst[0])
+
+def get_my_publick_ip():
+    get_ip_method = os.popen('curl -s myip.ipip.net')
+    get_ip_responses = get_ip_method.readlines()[0]
+    get_ip_pattern = re.compile(r'\d+\.\d+\.\d+\.\d+')
+    get_ip_value = get_ip_pattern.findall(get_ip_responses)
+    return get_ip_value
+
+# 获取外网地址
+def get_internet_ip():
+    with urllib.request.urlopen('http://www.3322.org/dyndns/getip') as response:
+        html = response.read()
+        ip = str(html, encoding='utf-8').replace("\n", "")
+    return ip
